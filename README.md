@@ -12,6 +12,6 @@ You can view my repo here
 
 Bahadır Bünül (bahadirbunul)
 
-<img src="sspoke.jpeg">
+<img src="sspoke.jpeg" width= 200px>
 
 
